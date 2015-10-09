@@ -1,6 +1,7 @@
-name: null
+name: CodyStevenson
 favicon: null
 layout_spectrum: 0.8
+title: Cody Stevenson
 cta:
   domain: null
   bucket: null
@@ -19,4 +20,7 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose: []
+purpose:
+  - name: engagement
+    item: null
+    url: null
